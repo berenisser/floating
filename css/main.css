@@ -39,7 +39,7 @@ section {
 }
 
 .imagenes {
-	width: 350px;
+	width: 330px;
 	float: left;
 	margin: 27px;
 	height: 220px;
@@ -51,6 +51,12 @@ p {
 	margin: 10px;
 	font-family: "Baloo Paaji";
 }
+
+.img_1, .img_2, .img_3,
+.izquierdo img, .derecho img {
+	width: 20%;
+}
+
 
 .img_2 {
 	float: left;
